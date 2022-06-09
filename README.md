@@ -1,4 +1,4 @@
-# :trophy: Analysis of Nobel Prize from 1990 to 2020
+# :trophy: Analysis of Nobel Prize
 
 ## :file_cabinet: [Data Source](./nobel_prize_data.csv)
 
